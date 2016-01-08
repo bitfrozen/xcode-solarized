@@ -9,4 +9,4 @@ Installation
 ------------
 Installation:
 
-    mv *Solar*.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    mv *SL*.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
